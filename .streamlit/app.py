@@ -7,4 +7,6 @@ st.set_page_config(
 )
 
 st.title("📊 IIRI Trade Classification")
-st.write("Aplikasi pemetaan HS → ISIC → Intensitas Teknologi")
+st.write("Aplikasi pemetaan data ekspor-impor DBF ke ISIC dan intensitas teknologi.")
+
+st.info("Versi awal aplikasi sudah aktif. Fitur upload dan proses data akan ditambahkan setelah ini.")
